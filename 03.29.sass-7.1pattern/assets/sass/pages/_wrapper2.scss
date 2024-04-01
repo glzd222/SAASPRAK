@@ -10,9 +10,12 @@
   img {
     width: 450px;
     height: 350px;
+    border-radius: 0%;
+  
   }
   .cards {
     gap: 2rem;
+   
     display: flex;
     flex-wrap: wrap;
     text-align: center;

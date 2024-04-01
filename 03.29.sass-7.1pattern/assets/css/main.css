@@ -294,6 +294,7 @@ footer .footer nav ul {
 #wrapper2 img {
   width: 450px;
   height: 350px;
+  border-radius: 0%;
 }
 #wrapper2 .cards {
   gap: 2rem;
