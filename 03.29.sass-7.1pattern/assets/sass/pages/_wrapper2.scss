@@ -1,0 +1,51 @@
+#wrapper2 {
+    margin-bottom: 200px;
+  .text {
+    text-align: center;
+    margin-bottom: 50px;
+    h1 {
+      font-size: 3.2rem;
+    }
+  }
+  img {
+    width: 450px;
+    height: 350px;
+  }
+  .cards {
+    gap: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+   
+    
+   
+  }
+
+  .cards {
+    .h1span {
+       margin-top: 20px;
+       margin-bottom: 30px;
+    }
+  }
+
+  .card1{
+    width: 30%;
+   
+  }
+
+  .card2{
+    width: 30%;
+  }
+  .card3 {
+    width: 30%;
+  }
+  .card4 {
+    width: 30%;
+  }
+  .card5 {
+    width: 30%;
+  }
+  .card6 {
+    width: 30%;
+  }
+}

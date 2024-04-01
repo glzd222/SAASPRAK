@@ -1,0 +1,56 @@
+#wrapper3 {
+
+    h1 {
+        font-size: 3.2rem;
+        padding-bottom: 20px;
+    }
+    p{
+        font-size: 1.1rem;
+        padding-bottom: 80px;
+    }
+
+    .about {
+        text-align: center;
+    }
+    img {width: 150px;
+        height: 150px;
+        border-radius: 80px;
+        margin-left: 60px;
+    }
+
+    .textinfo{
+        h1{
+            font-size: 1.5rem;
+            padding-bottom: 15px;
+           
+        }
+        p{
+            width: 380px;
+            padding-top: 15px;
+        }
+    }
+    .textphoto1{
+        display: flex;
+       margin-left: 240px;
+    }
+
+    
+.textphoto2{
+    display: flex;
+    margin-left: 627px;
+    img {
+        margin-right: 60px;
+    }
+}
+
+.textphoto4 {
+    display: flex;
+    margin-left: 627px;
+}
+
+img {
+    margin-right: 60px;
+}
+
+
+}

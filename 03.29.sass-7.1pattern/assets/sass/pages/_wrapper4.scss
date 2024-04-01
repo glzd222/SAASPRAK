@@ -1,0 +1,52 @@
+// #wrapper4 {
+//   margin-bottom: 200px;
+
+  .h1text {
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  p {
+    font-size: medium;
+
+    margin-bottom: 20px;
+  }
+
+  .teammembers {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 2rem;
+  }
+  img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 8px solid gray;
+  }
+  .text {
+    align-items: center;
+    p {
+      text-align: center;
+    }
+
+    h1 {
+      text-align: center;
+    }
+    .fa-twitter {
+      margin-left: 80px;
+    }
+  }
+  .pp { width: 900x;
+margin-top: 40px;    p {
+       text-align: center;
+        font-size: 1.2rem;
+        margin-left: -5px
+
+    }
+  
+  
+}

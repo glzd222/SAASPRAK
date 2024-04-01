@@ -1,0 +1,58 @@
+#wrapper {
+    p {
+        width: 350px;
+        // font-size: 15px;
+    }
+  .text {
+    text-align: center;
+    margin-top: 60px;
+    h1 {
+      font-size: 3.2rem;
+      margin-bottom: 10px;
+    }
+  }
+  .cards {
+    gap: 2rem;
+    display: flex;
+    margin-top: 40px;
+    max-width: 100%;
+    text-align: center;
+    .fa-cart-shopping {
+      font-size: 3rem;
+      background-color: $primary-color;
+      color: white;
+    }
+
+    .fa-laptop {
+      font-size: 3rem;
+      background-color: $primary-color;
+      color: white;
+    }
+    .fa-lock {
+      font-size: 3rem;
+      background-color: $primary-color;
+      color: white;
+    }
+  }
+
+
+  .cards {display: flex;
+    margin-left: 250px;
+ margin-bottom: 200px;
+    h1 {
+      font-size: 2rem;
+      margin-top: 10px;
+      margin-bottom: 15px;
+      
+    }
+  }
+  .texts {
+    .p {
+        width: 350px;
+    }
+  }
+
+
+
+
+}
